@@ -1,0 +1,8 @@
+Flask==1.0.2
+gunicorn==19.9.0
+line-bot-sdk==1.19.0
+pymongo==3.11.0
+pymongo[srv]
+dnspython
+Flask-Mail==0.9.1
+openpyxl==3.0.9
